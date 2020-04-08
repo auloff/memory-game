@@ -8,13 +8,13 @@
         },
         {
             "ID": "angry",
-            "FrontSource": "https://raw.githubusercontent.com/auloff/memory-game/master/web-resources/laughtcard.png",
-            "BackSource": "https://raw.githubusercontent.com/auloff/memory-game/master/web-resources/angrycard.png"
+            "FrontSource": "https://raw.githubusercontent.com/auloff/memory-game/master/web-resources/angrycard.png",
+            "BackSource": "https://raw.githubusercontent.com/auloff/memory-game/master/web-resources/back.png"
         },
         {
             "ID": "robot",
-            "FrontSource": "https://raw.githubusercontent.com/auloff/memory-game/master/web-resources/laughtcard.png",
-            "BackSource": "https://raw.githubusercontent.com/auloff/memory-game/master/web-resources/robotcard.png"
+            "FrontSource": "https://raw.githubusercontent.com/auloff/memory-game/master/web-resources/robotcard.png",
+            "BackSource": "https://raw.githubusercontent.com/auloff/memory-game/master/web-resources/back.png"
         }
     ]
 }

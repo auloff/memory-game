@@ -1,0 +1,20 @@
+{
+    "Cards":
+    [
+        {
+            "ID": "laught",
+            "FrontSource": "https://raw.githubusercontent.com/auloff/memory-game/master/web-resources/laughtcard.png",
+            "BackSource": "https://raw.githubusercontent.com/auloff/memory-game/master/web-resources/back.png"
+        },
+        {
+            "ID": "angry",
+            "FrontSource": "https://raw.githubusercontent.com/auloff/memory-game/master/web-resources/laughtcard.png",
+            "BackSource": "https://raw.githubusercontent.com/auloff/memory-game/master/web-resources/angrycard.png"
+        },
+        {
+            "ID": "robot",
+            "FrontSource": "https://raw.githubusercontent.com/auloff/memory-game/master/web-resources/laughtcard.png",
+            "BackSource": "https://raw.githubusercontent.com/auloff/memory-game/master/web-resources/robotcard.png"
+        }
+    ]
+}
